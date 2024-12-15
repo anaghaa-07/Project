@@ -1,0 +1,12 @@
+.carousel-inner {
+    max-width: 800px; /* Set maximum width */
+    margin: 0 auto; /* Center the carousel */
+  }
+  
+  .carousel-item {
+    height: 300px; /* Adjust height */
+  }
+  
+  .carousel-item img {
+    object-fit: cover; /* Ensure images cover the entire area */
+  }

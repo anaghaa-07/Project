@@ -1,0 +1,13 @@
+.search-bar {
+    width: 900px; /* Desired width for the search bar */
+    padding: 5px 10px; /* Padding inside the input field */
+     /* Rounded corners */
+    /* Border style */
+    margin-right: 10px; /* Margin to push it right */
+    font-size: 14px; /* Font size */
+    color: #495057; /* Font color */
+  }
+  .search-bar::placeholder {
+    color: black; /* Placeholder color */
+    font-size: 15px;
+  }
